@@ -1,4 +1,4 @@
-## Hey, I’m toshi 👋🏼
+# Hey, I’m toshi 👋🏼
 I’m 21-year-old aspiring developer based in Finland 😉
 
 - 📚 I'm actively studying IT Bachelor
