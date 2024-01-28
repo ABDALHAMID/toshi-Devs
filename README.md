@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @toshi-Devs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning NextJS/ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hey, I’m toshi 👋🏼
+I’m 21-year-old aspiring developer based in Finland 😉
 
-<!---
-toshi-Devs/toshi-Devs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📚 I'm actively studying IT Bachelor
+- 👀 I’m interested in Front-End Development.
+- 🌱 I’m currently learning NextJS and Typescript
+## Technologies
+`JavaScript` `HTMl` `CSS` <br> 
+`React` `NodeJs` `Firebase` <br>
+ `TailwindCSS` `Material-UI`
+
